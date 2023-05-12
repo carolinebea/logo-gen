@@ -13,7 +13,7 @@ A simple logo generator. You'll get a shape, color and three charactes inside th
 ## Install
 npm i 
 ## Usage
-In the node terminal
+You'll access this in the node terminal
 ## Contributions 
 I worked with my tutor Robert Kurle Jr and my instructor Eric Sayer
 ## Tests
